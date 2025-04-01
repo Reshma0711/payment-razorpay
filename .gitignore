@@ -73,17 +73,13 @@ web_modules/
 .yarn-integrity
 
 # Environment files
-server/.env
-server/.env.production.local
-server/.env.development.local
-server/.env.local
+.env
+.env.production.local
+.env.development.local
+.env.local
 
 
-# Environment files
-server/.env
-server/.env.production.local
-server/.env.development.local
-server/.env.local
+
 
 
 
