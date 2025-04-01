@@ -79,6 +79,15 @@ server/.env.development.local
 server/.env.local
 
 
+# Environment files
+server/.env
+server/.env.production.local
+server/.env.development.local
+server/.env.local
+
+
+
+
 # parcel-bundler cache (https://parceljs.org/)
 .cache
 .parcel-cache
